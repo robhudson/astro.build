@@ -7,7 +7,7 @@ categories:
 npmUrl: "https://www.npmjs.com/package/astro-default-prerender"
 repoUrl: "https://github.com/MoustaphaDev/astro-default-prerender"
 homepageUrl: "https://github.com/MoustaphaDev/astro-default-prerender/tree/main/packages/integration/README.md"
-downloads: 314
+downloads: 342
 badges:
   - "new"
 ---
